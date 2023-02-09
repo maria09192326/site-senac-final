@@ -73,14 +73,14 @@ var cursoProgramacao = {
     nome:"Programação",
     descricao:"Cursos para quem tem interesse em ingressar na área de programação",
     topicos:["Tecnologia","Design UI/UX","Desenvolvimento Web"],
-    imagem:"http://127.0.0.1:5500/img/programacao.jpg",
+    imagem:"img/programacao.jpg",
 }
 
     var cursoAdministracao = {
         nome:"Administração",
         descricao:"Direcionado para quem queira trabalhar no setor administrativo e com finanças.",
         topicos:["Administração","Marketing","Finanças e Contabilidade"],
-        imagem:"http://127.0.0.1:5500/img/administracao.jpg",
+        imagem:"img/administracao.jpg",
     
     }
 
@@ -88,7 +88,7 @@ var cursoEnfermagem = {
     nome:"Enfermagem",
     descricao:"Para você que gostaria de ingressar na área da saúde",
     topicos:["biosegurança","Primeiros socorros","Ministraçao de Medicamentos"],
-    imagem:"http://127.0.0.1:5500/img/enfermagem.jpg",
+    imagem:"img/enfermagem.jpg",
 }
 var cursoSeguranca = {
     nome:"Segurança do Trabalho",
