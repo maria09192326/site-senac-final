@@ -1,0 +1,25 @@
+.informacoes{
+    background-color: rgb(16,16,16);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.informacoes-texto{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.informacoes-redes{
+    padding-left: 0px;
+}
+
+figure, iframe{
+    max-width: 100%;
+}
+
+@media screen and (max-width: 950px){
+    .informacoes{
+        grid-template-columns: 1fr;
+    }
+}
